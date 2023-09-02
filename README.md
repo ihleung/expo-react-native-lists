@@ -10,6 +10,6 @@ npx create-expo-app -e with-router
 
 ## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-# expo-router-react-native-lists
+-react-native
+
+-using ios simulator and web browser
